@@ -1,0 +1,210 @@
+^api\ref.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ref.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ref.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ref.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ref.ispc_avx.obj
+^cameras\depthoffieldcamera.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\depthoffieldcamera.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\depthoffieldcamera.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\depthoffieldcamera.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\depthoffieldcamera.ispc_avx.obj
+^cameras\pinholecamera.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pinholecamera.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pinholecamera.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pinholecamera.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pinholecamera.ispc_avx.obj
+^framebuffers\accubuffer.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\accubuffer.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\accubuffer.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\accubuffer.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\accubuffer.ispc_avx.obj
+^framebuffers\framebuffer.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer.ispc_avx.obj
+^framebuffers\framebuffer_rgb8.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb8.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb8.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb8.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb8.ispc_avx.obj
+^framebuffers\framebuffer_rgb_float32.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb_float32.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb_float32.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb_float32.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgb_float32.ispc_avx.obj
+^framebuffers\framebuffer_rgba8.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgba8.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgba8.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgba8.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\framebuffer_rgba8.ispc_avx.obj
+^framebuffers\swapchain.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\swapchain.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\swapchain.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\swapchain.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\swapchain.ispc_avx.obj
+^scene\instance.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\instance.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\instance.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\instance.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\instance.ispc_avx.obj
+^scene\scene.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\scene.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\scene.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\scene.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\scene.ispc_avx.obj
+^lights\ambientlight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ambientlight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ambientlight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ambientlight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\ambientlight.ispc_avx.obj
+^lights\directionallight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\directionallight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\directionallight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\directionallight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\directionallight.ispc_avx.obj
+^lights\distantlight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distantlight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distantlight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distantlight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distantlight.ispc_avx.obj
+^lights\hdrilight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\hdrilight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\hdrilight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\hdrilight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\hdrilight.ispc_avx.obj
+^lights\light.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\light.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\light.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\light.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\light.ispc_avx.obj
+^lights\pointlight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pointlight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pointlight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pointlight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pointlight.ispc_avx.obj
+^lights\spotlight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\spotlight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\spotlight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\spotlight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\spotlight.ispc_avx.obj
+^lights\trianglelight.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglelight.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglelight.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglelight.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglelight.ispc_avx.obj
+^materials\dielectric.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\dielectric.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\dielectric.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\dielectric.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\dielectric.ispc_avx.obj
+^materials\material.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\material.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\material.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\material.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\material.ispc_avx.obj
+^materials\matte.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte.ispc_avx.obj
+^materials\matte_textured.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte_textured.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte_textured.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte_textured.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\matte_textured.ispc_avx.obj
+^materials\metal.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metal.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metal.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metal.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metal.ispc_avx.obj
+^materials\metallicpaint.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metallicpaint.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metallicpaint.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metallicpaint.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\metallicpaint.ispc_avx.obj
+^materials\mirror.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\mirror.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\mirror.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\mirror.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\mirror.ispc_avx.obj
+^materials\obj.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\obj.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\obj.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\obj.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\obj.ispc_avx.obj
+^materials\plastic.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\plastic.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\plastic.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\plastic.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\plastic.ispc_avx.obj
+^materials\thindielectric.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\thindielectric.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\thindielectric.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\thindielectric.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\thindielectric.ispc_avx.obj
+^materials\velvet.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\velvet.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\velvet.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\velvet.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\velvet.ispc_avx.obj
+^renderers\debugrenderer.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\debugrenderer.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\debugrenderer.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\debugrenderer.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\debugrenderer.ispc_avx.obj
+^renderers\pathtracer.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pathtracer.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pathtracer.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pathtracer.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\pathtracer.ispc_avx.obj
+^renderers\renderer.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\renderer.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\renderer.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\renderer.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\renderer.ispc_avx.obj
+^samplers\distribution2d.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distribution2d.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distribution2d.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distribution2d.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\distribution2d.ispc_avx.obj
+^shapes\shape.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\shape.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\shape.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\shape.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\shape.ispc_avx.obj
+^shapes\trianglemesh.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglemesh.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglemesh.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglemesh.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\trianglemesh.ispc_avx.obj
+^textures\image3c.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3c.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3c.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3c.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3c.ispc_avx.obj
+^textures\image3ca.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3ca.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3ca.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3ca.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3ca.ispc_avx.obj
+^textures\image3f.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3f.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3f.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3f.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3f.ispc_avx.obj
+^textures\image3fa.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3fa.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3fa.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3fa.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\image3fa.ispc_avx.obj
+^textures\nearestneighbor.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\nearestneighbor.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\nearestneighbor.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\nearestneighbor.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\nearestneighbor.ispc_avx.obj
+^tonemappers\defaulttonemapper.ispc
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\defaulttonemapper.ispc.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\defaulttonemapper.ispc_sse2.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\defaulttonemapper.ispc_sse4.obj
+D:\Embree Renderer\embree-renderer-2.2\devices\device_ispc\Win32\ReleaseAVX\defaulttonemapper.ispc_avx.obj
